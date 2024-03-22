@@ -1,0 +1,203 @@
+body{
+    background-image: radial-gradient(orange,white,green);
+}
+h1{
+    color: red;
+    text-shadow: 2px 2px 2px blue;
+    text-align: center;
+    background-color: aqua;
+}
+#container{
+    background-image: url("./img2.jpg");
+    background-size: 1500px, 1500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid red;
+}
+#b1{
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 2px 2px red;
+}
+.a1{
+    list-style-type: none;
+    color: chartreuse;
+    text-align: center;
+    text-shadow: 2px 2px 2px green;
+}
+#b2{
+    color: darkgreen;
+    text-align: center;
+    text-shadow: 2px 2px 2px orangered;
+}
+.a2{
+    list-style-type: none;
+    color: blueviolet;
+    text-shadow:2px 2px 2px brown;
+    text-align: center;
+}
+#b3{
+    color: chartreuse;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(253, 116, 4);
+}
+.a3{
+    text-decoration: none;
+    color: blue;
+    margin-left: 285px;
+    text-shadow: 2px 2px 2px red;
+}
+.a3:visited{
+    color: cornflowerblue;
+}
+.a3:hover{
+    color: brown;
+}
+.a:link{
+    color: black;
+}
+.a4{
+    text-decoration: none;
+    color: coral;
+    margin-left: 285px;
+    text-shadow: 2px 2px 2px yellow;
+}
+.a4:visited{
+    color: aqua;
+}
+.a4:hover{
+    color: chartreuse;
+}
+.a4:link{
+    color: crimson;
+}
+.a5{
+    text-decoration: none;
+    color: darkslateblue;
+    margin-left: 285px;
+    text-shadow: 2px 2px 2px black;
+}
+.a5:visited{
+    color: darkorange;
+}
+.a5:hover{
+    color: goldenrod;
+}
+.a5:link{
+    color: deeppink;
+}
+.a6{
+    text-decoration: none;
+    color: darkkhaki;
+    margin-left: 285px;
+    text-shadow: 2px 2px 2px orangered;
+}
+.a6:visited{
+    color: hotpink;
+}
+.a6:hover{
+    color: fuchsia;
+}
+.a6:link{
+    color: gray;
+}
+#b4{
+    color: deeppink;
+    text-align: center;
+    text-shadow: 2px 2px 2px orange;
+}
+.a7,.a8,.a9{
+    margin-left: 450px;
+    border: 2px solid yellow;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.a8{
+    color: firebrick;
+    background-color: dodgerblue;
+    background-image: linear-gradient(to right,orange,white,green);
+    text-shadow: 2px 2px 2px gray;
+}
+.a9{
+    color: blue;
+    background-image: radial-gradient(orange,white,red,lightgreen,yellow);
+    text-shadow: 2px 2px 2px olive;
+}
+#b5{
+    color: red;
+    background-color: cornflowerblue;
+    background-image: radial-gradient(orange,white,green);
+    text-align: center;
+    text-shadow: 2px 2px 2px blue;
+}
+#container1{
+    background-color: darkslategrey;
+    height:400px;
+    width: 1250px;
+    overflow: auto;
+}
+#b6{
+    color: red;
+    background-color: blueviolet;
+}
+.a10{
+    color: chocolate;
+    background-color: blanchedalmond;
+}
+#b7{
+    color: aqua;
+    background-color: black;
+    display: block;
+}
+.a11{
+    color: darkgoldenrod;
+    background-color: darkkhaki;
+    display: inline;
+}
+#b8{
+    color: darkgray;
+    background-color: cadetblue;
+    display: block;
+}
+.a12{
+    color: darkred;
+    background-color: darkcyan;
+    display: inline;
+}
+.a13{
+    color: darkred;
+    background-color: cyan;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+#a14{
+    color: darkorange;
+    background-color: burlywood;
+    text-shadow: 2px 2px 2px red;
+    text-align: center;
+}
+#pic{
+    height: 150px;
+    margin: 10px;
+    float: left;
+}
+#pic1{
+    height: 150px;
+    margin: 10px;
+    float: right;
+}
+ol{
+    color: deeppink;
+    text-align: center;
+    text-shadow: 2px 2px 2px green;
+    list-style-type: none;
+}
+mark{
+    color: blue;
+}
+.name{
+    color: darkorange;
+    background-color: black;
+    text-shadow: 2px 2px 2px red;
+    text-align: center;
+}
